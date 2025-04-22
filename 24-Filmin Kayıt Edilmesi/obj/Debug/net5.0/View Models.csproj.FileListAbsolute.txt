@@ -1,0 +1,48 @@
+C:\Users\yunus\source\repos\14-Views Models\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\source\repos\14-Views Models\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\source\repos\14-Views Models\bin\Debug\net5.0\View Models.exe
+C:\Users\yunus\source\repos\14-Views Models\bin\Debug\net5.0\View Models.deps.json
+C:\Users\yunus\source\repos\14-Views Models\bin\Debug\net5.0\View Models.runtimeconfig.json
+C:\Users\yunus\source\repos\14-Views Models\bin\Debug\net5.0\View Models.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\14-Views Models\bin\Debug\net5.0\View Models.dll
+C:\Users\yunus\source\repos\14-Views Models\bin\Debug\net5.0\View Models.pdb
+C:\Users\yunus\source\repos\14-Views Models\bin\Debug\net5.0\View Models.Views.dll
+C:\Users\yunus\source\repos\14-Views Models\bin\Debug\net5.0\View Models.Views.pdb
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.AssemblyInfo.cs
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.RazorAssemblyInfo.cache
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.RazorAssemblyInfo.cs
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.TagHelpers.input.cache
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.TagHelpers.output.cache
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.RazorCoreGenerate.cache
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\Razor\Views\Shared\_menu.cshtml.g.cs
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\Razor\Views\Shared\_movie.cshtml.g.cs
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.Views.pdb
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\scopedcss\bundle\View Models.styles.css
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\staticwebassets\View Models.StaticWebAssets.Manifest.cache
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\staticwebassets\View Models.StaticWebAssets.Pack.cache
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\staticwebassets\msbuild.View Models.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\staticwebassets\msbuild.build.View Models.props
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.View Models.props
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.View Models.props
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.dll
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\refint\View Models.dll
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.pdb
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.genruntimeconfig.cache
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\ref\View Models.dll
+C:\Users\yunus\source\repos\14-Views Models\obj\Debug\net5.0\View Models.csproj.CopyComplete

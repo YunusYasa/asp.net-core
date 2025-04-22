@@ -1,0 +1,48 @@
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\bin\Debug\net5.0\PartialViewe Veri Gönderme.exe
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\bin\Debug\net5.0\PartialViewe Veri Gönderme.deps.json
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\bin\Debug\net5.0\PartialViewe Veri Gönderme.runtimeconfig.json
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\bin\Debug\net5.0\PartialViewe Veri Gönderme.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\bin\Debug\net5.0\PartialViewe Veri Gönderme.dll
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\bin\Debug\net5.0\PartialViewe Veri Gönderme.pdb
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\bin\Debug\net5.0\PartialViewe Veri Gönderme.Views.dll
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\bin\Debug\net5.0\PartialViewe Veri Gönderme.Views.pdb
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.AssemblyInfo.cs
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.RazorAssemblyInfo.cache
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.RazorAssemblyInfo.cs
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.TagHelpers.input.cache
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.TagHelpers.output.cache
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.RazorCoreGenerate.cache
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\Razor\Views\Shared\_menu.cshtml.g.cs
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\Razor\Views\Shared\_movie.cshtml.g.cs
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.Views.pdb
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\scopedcss\bundle\PartialViewe Veri Gönderme.styles.css
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\staticwebassets\PartialViewe Veri Gönderme.StaticWebAssets.Manifest.cache
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\staticwebassets\PartialViewe Veri Gönderme.StaticWebAssets.Pack.cache
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\staticwebassets\msbuild.PartialViewe Veri Gönderme.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\staticwebassets\msbuild.build.PartialViewe Veri Gönderme.props
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PartialViewe Veri Gönderme.props
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PartialViewe Veri Gönderme.props
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.dll
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\refint\PartialViewe Veri Gönderme.dll
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.pdb
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.genruntimeconfig.cache
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\ref\PartialViewe Veri Gönderme.dll
+C:\Users\yunus\source\repos\13-PartialViewe Veri Gönderme\obj\Debug\net5.0\PartialViewe Veri Gönderme.csproj.CopyComplete

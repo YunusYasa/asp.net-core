@@ -1,0 +1,208 @@
+C:\Users\yunus\source\repos\Model List\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\source\repos\Model List\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\source\repos\Model List\bin\Debug\net5.0\Model List.exe
+C:\Users\yunus\source\repos\Model List\bin\Debug\net5.0\Model List.deps.json
+C:\Users\yunus\source\repos\Model List\bin\Debug\net5.0\Model List.runtimeconfig.json
+C:\Users\yunus\source\repos\Model List\bin\Debug\net5.0\Model List.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\Model List\bin\Debug\net5.0\Model List.dll
+C:\Users\yunus\source\repos\Model List\bin\Debug\net5.0\Model List.pdb
+C:\Users\yunus\source\repos\Model List\bin\Debug\net5.0\Model List.Views.dll
+C:\Users\yunus\source\repos\Model List\bin\Debug\net5.0\Model List.Views.pdb
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.AssemblyInfo.cs
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.RazorAssemblyInfo.cache
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.RazorAssemblyInfo.cs
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.TagHelpers.input.cache
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.TagHelpers.output.cache
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.RazorCoreGenerate.cache
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.Views.pdb
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\scopedcss\bundle\Model List.styles.css
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\staticwebassets\Model List.StaticWebAssets.Manifest.cache
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\staticwebassets\Model List.StaticWebAssets.Pack.cache
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\staticwebassets\msbuild.Model List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\staticwebassets\msbuild.build.Model List.props
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Model List.props
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Model List.props
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.dll
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\refint\Model List.dll
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.pdb
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.genruntimeconfig.cache
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\ref\Model List.dll
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Model List.csproj.CopyComplete
+C:\Users\yunus\source\repos\Model List\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus\source\repos\8-Model List\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\source\repos\8-Model List\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\source\repos\8-Model List\bin\Debug\net5.0\Model List.exe
+C:\Users\yunus\source\repos\8-Model List\bin\Debug\net5.0\Model List.deps.json
+C:\Users\yunus\source\repos\8-Model List\bin\Debug\net5.0\Model List.runtimeconfig.json
+C:\Users\yunus\source\repos\8-Model List\bin\Debug\net5.0\Model List.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\8-Model List\bin\Debug\net5.0\Model List.dll
+C:\Users\yunus\source\repos\8-Model List\bin\Debug\net5.0\Model List.pdb
+C:\Users\yunus\source\repos\8-Model List\bin\Debug\net5.0\Model List.Views.dll
+C:\Users\yunus\source\repos\8-Model List\bin\Debug\net5.0\Model List.Views.pdb
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.AssemblyInfo.cs
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.RazorAssemblyInfo.cache
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.RazorAssemblyInfo.cs
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.TagHelpers.input.cache
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.TagHelpers.output.cache
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.RazorCoreGenerate.cache
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.Views.pdb
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\scopedcss\bundle\Model List.styles.css
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\staticwebassets\Model List.StaticWebAssets.Manifest.cache
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\staticwebassets\Model List.StaticWebAssets.Pack.cache
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\staticwebassets\msbuild.Model List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\staticwebassets\msbuild.build.Model List.props
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Model List.props
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Model List.props
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.dll
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\refint\Model List.dll
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.pdb
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.genruntimeconfig.cache
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\ref\Model List.dll
+C:\Users\yunus\source\repos\8-Model List\obj\Debug\net5.0\Model List.csproj.CopyComplete
+C:\Users\yunus\source\repos\8- Static Files\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\source\repos\8- Static Files\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\source\repos\8- Static Files\bin\Debug\net5.0\Model List.exe
+C:\Users\yunus\source\repos\8- Static Files\bin\Debug\net5.0\Model List.deps.json
+C:\Users\yunus\source\repos\8- Static Files\bin\Debug\net5.0\Model List.runtimeconfig.json
+C:\Users\yunus\source\repos\8- Static Files\bin\Debug\net5.0\Model List.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\8- Static Files\bin\Debug\net5.0\Model List.dll
+C:\Users\yunus\source\repos\8- Static Files\bin\Debug\net5.0\Model List.pdb
+C:\Users\yunus\source\repos\8- Static Files\bin\Debug\net5.0\Model List.Views.dll
+C:\Users\yunus\source\repos\8- Static Files\bin\Debug\net5.0\Model List.Views.pdb
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.AssemblyInfo.cs
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.RazorAssemblyInfo.cache
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.RazorAssemblyInfo.cs
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.TagHelpers.input.cache
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.TagHelpers.output.cache
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.RazorCoreGenerate.cache
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.Views.pdb
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\scopedcss\bundle\Model List.styles.css
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\staticwebassets\Model List.StaticWebAssets.Manifest.cache
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\staticwebassets\Model List.StaticWebAssets.Pack.cache
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\staticwebassets\msbuild.Model List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\staticwebassets\msbuild.build.Model List.props
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Model List.props
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Model List.props
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.dll
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\refint\Model List.dll
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.pdb
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.genruntimeconfig.cache
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\ref\Model List.dll
+C:\Users\yunus\source\repos\8- Static Files\obj\Debug\net5.0\Model List.csproj.CopyComplete
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\bin\Debug\net5.0\Model List.exe
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\bin\Debug\net5.0\Model List.deps.json
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\bin\Debug\net5.0\Model List.runtimeconfig.json
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\bin\Debug\net5.0\Model List.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\bin\Debug\net5.0\Model List.dll
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\bin\Debug\net5.0\Model List.pdb
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\bin\Debug\net5.0\Model List.Views.dll
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\bin\Debug\net5.0\Model List.Views.pdb
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.AssemblyInfo.cs
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.RazorAssemblyInfo.cache
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.RazorAssemblyInfo.cs
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.TagHelpers.input.cache
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.TagHelpers.output.cache
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.RazorCoreGenerate.cache
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.Views.pdb
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\scopedcss\bundle\Model List.styles.css
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\staticwebassets\Model List.StaticWebAssets.Manifest.cache
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\staticwebassets\Model List.StaticWebAssets.Pack.cache
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\staticwebassets\msbuild.Model List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\staticwebassets\msbuild.build.Model List.props
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Model List.props
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Model List.props
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.dll
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\refint\Model List.dll
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.pdb
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.genruntimeconfig.cache
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\ref\Model List.dll
+C:\Users\yunus\source\repos\9- Boostrap ile tasarım\obj\Debug\net5.0\Model List.csproj.CopyComplete
+C:\Users\yunus\source\repos\10-Layout\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\source\repos\10-Layout\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\source\repos\10-Layout\bin\Debug\net5.0\Model List.exe
+C:\Users\yunus\source\repos\10-Layout\bin\Debug\net5.0\Model List.deps.json
+C:\Users\yunus\source\repos\10-Layout\bin\Debug\net5.0\Model List.runtimeconfig.json
+C:\Users\yunus\source\repos\10-Layout\bin\Debug\net5.0\Model List.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\10-Layout\bin\Debug\net5.0\Model List.dll
+C:\Users\yunus\source\repos\10-Layout\bin\Debug\net5.0\Model List.pdb
+C:\Users\yunus\source\repos\10-Layout\bin\Debug\net5.0\Model List.Views.dll
+C:\Users\yunus\source\repos\10-Layout\bin\Debug\net5.0\Model List.Views.pdb
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.AssemblyInfo.cs
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.RazorAssemblyInfo.cache
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.RazorAssemblyInfo.cs
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.TagHelpers.input.cache
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.TagHelpers.output.cache
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.RazorCoreGenerate.cache
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.Views.pdb
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\scopedcss\bundle\Model List.styles.css
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\staticwebassets\Model List.StaticWebAssets.Manifest.cache
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\staticwebassets\Model List.StaticWebAssets.Pack.cache
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\staticwebassets\msbuild.Model List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\staticwebassets\msbuild.build.Model List.props
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Model List.props
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Model List.props
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.dll
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\refint\Model List.dll
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.pdb
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.genruntimeconfig.cache
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\ref\Model List.dll
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Model List.csproj.CopyComplete
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yunus\source\repos\10-Layout\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs

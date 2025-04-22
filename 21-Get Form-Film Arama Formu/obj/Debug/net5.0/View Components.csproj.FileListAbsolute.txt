@@ -1,0 +1,347 @@
+C:\Users\yunus\source\repos\15-\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\source\repos\15-\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\source\repos\15-\bin\Debug\net5.0\View Components.exe
+C:\Users\yunus\source\repos\15-\bin\Debug\net5.0\View Components.deps.json
+C:\Users\yunus\source\repos\15-\bin\Debug\net5.0\View Components.runtimeconfig.json
+C:\Users\yunus\source\repos\15-\bin\Debug\net5.0\View Components.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\15-\bin\Debug\net5.0\View Components.dll
+C:\Users\yunus\source\repos\15-\bin\Debug\net5.0\View Components.pdb
+C:\Users\yunus\source\repos\15-\bin\Debug\net5.0\View Components.Views.dll
+C:\Users\yunus\source\repos\15-\bin\Debug\net5.0\View Components.Views.pdb
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.AssemblyInfo.cs
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.RazorAssemblyInfo.cache
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.RazorAssemblyInfo.cs
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.TagHelpers.input.cache
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.TagHelpers.output.cache
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.RazorCoreGenerate.cache
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\Razor\Views\Shared\_menu.cshtml.g.cs
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\Razor\Views\Shared\_movie.cshtml.g.cs
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.Views.pdb
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\scopedcss\bundle\View Components.styles.css
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\staticwebassets\View Components.StaticWebAssets.Manifest.cache
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\staticwebassets\View Components.StaticWebAssets.Pack.cache
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\staticwebassets\msbuild.View Components.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\staticwebassets\msbuild.build.View Components.props
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.View Components.props
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.View Components.props
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.dll
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\refint\View Components.dll
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.pdb
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.genruntimeconfig.cache
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\ref\View Components.dll
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\View Components.csproj.CopyComplete
+C:\Users\yunus\source\repos\15-\obj\Debug\net5.0\Razor\Views\Shared\Components\Genres\Default.cshtml.g.cs
+C:\Users\yunus\source\repos\16-Repository\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\source\repos\16-Repository\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\source\repos\16-Repository\bin\Debug\net5.0\View Components.exe
+C:\Users\yunus\source\repos\16-Repository\bin\Debug\net5.0\View Components.deps.json
+C:\Users\yunus\source\repos\16-Repository\bin\Debug\net5.0\View Components.runtimeconfig.json
+C:\Users\yunus\source\repos\16-Repository\bin\Debug\net5.0\View Components.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\16-Repository\bin\Debug\net5.0\View Components.dll
+C:\Users\yunus\source\repos\16-Repository\bin\Debug\net5.0\View Components.pdb
+C:\Users\yunus\source\repos\16-Repository\bin\Debug\net5.0\View Components.Views.dll
+C:\Users\yunus\source\repos\16-Repository\bin\Debug\net5.0\View Components.Views.pdb
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.AssemblyInfo.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.RazorAssemblyInfo.cache
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.RazorAssemblyInfo.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.TagHelpers.input.cache
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.TagHelpers.output.cache
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.RazorCoreGenerate.cache
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\Razor\Views\Shared\Components\Genres\Default.cshtml.g.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\Razor\Views\Shared\_menu.cshtml.g.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\Razor\Views\Shared\_movie.cshtml.g.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.Views.pdb
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\scopedcss\bundle\View Components.styles.css
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\staticwebassets\View Components.StaticWebAssets.Manifest.cache
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\staticwebassets\View Components.StaticWebAssets.Pack.cache
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\staticwebassets\msbuild.View Components.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\staticwebassets\msbuild.build.View Components.props
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.View Components.props
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.View Components.props
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.dll
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\refint\View Components.dll
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.pdb
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.genruntimeconfig.cache
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\ref\View Components.dll
+C:\Users\yunus\source\repos\16-Repository\obj\Debug\net5.0\View Components.csproj.CopyComplete
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\bin\Debug\net5.0\View Components.exe
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\bin\Debug\net5.0\View Components.deps.json
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\bin\Debug\net5.0\View Components.runtimeconfig.json
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\bin\Debug\net5.0\View Components.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\bin\Debug\net5.0\View Components.dll
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\bin\Debug\net5.0\View Components.pdb
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\bin\Debug\net5.0\View Components.Views.dll
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\bin\Debug\net5.0\View Components.Views.pdb
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.AssemblyInfo.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.RazorAssemblyInfo.cache
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.RazorAssemblyInfo.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.TagHelpers.input.cache
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.TagHelpers.output.cache
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.RazorCoreGenerate.cache
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\Razor\Views\Shared\Components\Genres\Default.cshtml.g.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\Razor\Views\Shared\_menu.cshtml.g.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\Razor\Views\Shared\_movie.cshtml.g.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.Views.pdb
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\scopedcss\bundle\View Components.styles.css
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\staticwebassets\View Components.StaticWebAssets.Manifest.cache
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\staticwebassets\View Components.StaticWebAssets.Pack.cache
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\staticwebassets\msbuild.View Components.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\staticwebassets\msbuild.build.View Components.props
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.View Components.props
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.View Components.props
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.dll
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\refint\View Components.dll
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.pdb
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.genruntimeconfig.cache
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\ref\View Components.dll
+C:\Users\yunus\source\repos\17-Verilerin Listelenmesi\obj\Debug\net5.0\View Components.csproj.CopyComplete
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\bin\Debug\net5.0\View Components.exe
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\bin\Debug\net5.0\View Components.deps.json
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\bin\Debug\net5.0\View Components.runtimeconfig.json
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\bin\Debug\net5.0\View Components.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\bin\Debug\net5.0\View Components.dll
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\bin\Debug\net5.0\View Components.pdb
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\bin\Debug\net5.0\View Components.Views.dll
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\bin\Debug\net5.0\View Components.Views.pdb
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.AssemblyInfo.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.RazorAssemblyInfo.cache
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.RazorAssemblyInfo.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.TagHelpers.input.cache
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.TagHelpers.output.cache
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.RazorCoreGenerate.cache
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\Razor\Views\Shared\Components\Genres\Default.cshtml.g.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\Razor\Views\Shared\_menu.cshtml.g.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\Razor\Views\Shared\_movie.cshtml.g.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.Views.pdb
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\scopedcss\bundle\View Components.styles.css
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\staticwebassets\View Components.StaticWebAssets.Manifest.cache
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\staticwebassets\View Components.StaticWebAssets.Pack.cache
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\staticwebassets\msbuild.View Components.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\staticwebassets\msbuild.build.View Components.props
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.View Components.props
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.View Components.props
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.dll
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\refint\View Components.dll
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.pdb
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.genruntimeconfig.cache
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\ref\View Components.dll
+C:\Users\yunus\source\repos\18-Film Detay Sayfası\obj\Debug\net5.0\View Components.csproj.CopyComplete
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\bin\Debug\net5.0\View Components.exe
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\bin\Debug\net5.0\View Components.deps.json
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\bin\Debug\net5.0\View Components.runtimeconfig.json
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\bin\Debug\net5.0\View Components.runtimeconfig.dev.json
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\bin\Debug\net5.0\View Components.dll
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\bin\Debug\net5.0\View Components.pdb
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\bin\Debug\net5.0\View Components.Views.dll
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\bin\Debug\net5.0\View Components.Views.pdb
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.AssemblyInfoInputs.cache
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.AssemblyInfo.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.RazorAssemblyInfo.cache
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.RazorAssemblyInfo.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.TagHelpers.input.cache
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.TagHelpers.output.cache
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.RazorCoreGenerate.cache
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\Razor\Views\Shared\Components\Genres\Default.cshtml.g.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\Razor\Views\Shared\_menu.cshtml.g.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\Razor\Views\Shared\_movie.cshtml.g.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.Views.pdb
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\scopedcss\bundle\View Components.styles.css
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\staticwebassets\View Components.StaticWebAssets.Manifest.cache
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\staticwebassets\View Components.StaticWebAssets.Pack.cache
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\staticwebassets\msbuild.View Components.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\staticwebassets\msbuild.build.View Components.props
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.View Components.props
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.View Components.props
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.dll
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\refint\View Components.dll
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.pdb
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.genruntimeconfig.cache
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\ref\View Components.dll
+C:\Users\yunus\Desktop\19-Verilerin Filtrelenmesi\obj\Debug\net5.0\View Components.csproj.CopyComplete
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.AssemblyInfo.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.RazorAssemblyInfo.cache
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.RazorAssemblyInfo.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.dll
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\refint\View Components.dll
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.pdb
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\bin\Debug\net5.0\View Components.exe
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\bin\Debug\net5.0\View Components.deps.json
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\bin\Debug\net5.0\View Components.runtimeconfig.json
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\bin\Debug\net5.0\View Components.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\bin\Debug\net5.0\View Components.dll
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\bin\Debug\net5.0\View Components.pdb
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\bin\Debug\net5.0\View Components.Views.dll
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\bin\Debug\net5.0\View Components.Views.pdb
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.TagHelpers.input.cache
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.TagHelpers.output.cache
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.RazorCoreGenerate.cache
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\Razor\Views\Shared\Components\Genres\Default.cshtml.g.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\Razor\Views\Shared\_menu.cshtml.g.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\Razor\Views\Shared\_movie.cshtml.g.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.Views.pdb
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\scopedcss\bundle\View Components.styles.css
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\staticwebassets\View Components.StaticWebAssets.Manifest.cache
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\staticwebassets\View Components.StaticWebAssets.Pack.cache
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\staticwebassets\msbuild.View Components.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\staticwebassets\msbuild.build.View Components.props
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.View Components.props
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.View Components.props
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.genruntimeconfig.cache
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\ref\View Components.dll
+C:\Users\yunus\source\repos\20-Seçilen Filmlerin İşaretlenmesi\obj\Debug\net5.0\View Components.csproj.CopyComplete
+C:\Users\yunus\Desktop\21-\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\Desktop\21-\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\Desktop\21-\bin\Debug\net5.0\View Components.exe
+C:\Users\yunus\Desktop\21-\bin\Debug\net5.0\View Components.deps.json
+C:\Users\yunus\Desktop\21-\bin\Debug\net5.0\View Components.runtimeconfig.json
+C:\Users\yunus\Desktop\21-\bin\Debug\net5.0\View Components.runtimeconfig.dev.json
+C:\Users\yunus\Desktop\21-\bin\Debug\net5.0\View Components.dll
+C:\Users\yunus\Desktop\21-\bin\Debug\net5.0\View Components.pdb
+C:\Users\yunus\Desktop\21-\bin\Debug\net5.0\View Components.Views.dll
+C:\Users\yunus\Desktop\21-\bin\Debug\net5.0\View Components.Views.pdb
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.AssemblyInfoInputs.cache
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.AssemblyInfo.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.RazorAssemblyInfo.cache
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.RazorAssemblyInfo.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.TagHelpers.input.cache
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.TagHelpers.output.cache
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.RazorCoreGenerate.cache
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\Razor\Views\Shared\Components\Genres\Default.cshtml.g.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\Razor\Views\Shared\_menu.cshtml.g.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\Razor\Views\Shared\_movie.cshtml.g.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.Views.pdb
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\scopedcss\bundle\View Components.styles.css
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\staticwebassets\View Components.StaticWebAssets.Manifest.cache
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\staticwebassets\View Components.StaticWebAssets.Pack.cache
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\staticwebassets\msbuild.View Components.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\staticwebassets\msbuild.build.View Components.props
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.View Components.props
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.View Components.props
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.dll
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\refint\View Components.dll
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.pdb
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.genruntimeconfig.cache
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\ref\View Components.dll
+C:\Users\yunus\Desktop\21-\obj\Debug\net5.0\View Components.csproj.CopyComplete

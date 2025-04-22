@@ -1,0 +1,76 @@
+C:\Users\yunus\source\repos\Default Routing\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\source\repos\Default Routing\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\source\repos\Default Routing\bin\Debug\net5.0\Default Routing.exe
+C:\Users\yunus\source\repos\Default Routing\bin\Debug\net5.0\Default Routing.deps.json
+C:\Users\yunus\source\repos\Default Routing\bin\Debug\net5.0\Default Routing.runtimeconfig.json
+C:\Users\yunus\source\repos\Default Routing\bin\Debug\net5.0\Default Routing.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\Default Routing\bin\Debug\net5.0\Default Routing.dll
+C:\Users\yunus\source\repos\Default Routing\bin\Debug\net5.0\Default Routing.pdb
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.AssemblyInfo.cs
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\scopedcss\bundle\Default Routing.styles.css
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\staticwebassets\Default Routing.StaticWebAssets.Manifest.cache
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\staticwebassets\Default Routing.StaticWebAssets.Pack.cache
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\staticwebassets\msbuild.Default Routing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\staticwebassets\msbuild.build.Default Routing.props
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Default Routing.props
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Default Routing.props
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.dll
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\refint\Default Routing.dll
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.pdb
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.genruntimeconfig.cache
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\ref\Default Routing.dll
+C:\Users\yunus\source\repos\Default Routing\bin\Debug\net5.0\Default Routing.Views.dll
+C:\Users\yunus\source\repos\Default Routing\bin\Debug\net5.0\Default Routing.Views.pdb
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.RazorAssemblyInfo.cache
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.RazorAssemblyInfo.cs
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.TagHelpers.input.cache
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.TagHelpers.output.cache
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.RazorCoreGenerate.cache
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.Views.pdb
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Default Routing.csproj.CopyComplete
+C:\Users\yunus\source\repos\Default Routing\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\bin\Debug\net5.0\Default Routing.exe
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\bin\Debug\net5.0\Default Routing.deps.json
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\bin\Debug\net5.0\Default Routing.runtimeconfig.json
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\bin\Debug\net5.0\Default Routing.runtimeconfig.dev.json
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\bin\Debug\net5.0\Default Routing.dll
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\bin\Debug\net5.0\Default Routing.pdb
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\bin\Debug\net5.0\Default Routing.Views.dll
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\bin\Debug\net5.0\Default Routing.Views.pdb
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.AssemblyInfoInputs.cache
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.AssemblyInfo.cs
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.RazorAssemblyInfo.cache
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.RazorAssemblyInfo.cs
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.TagHelpers.input.cache
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.TagHelpers.output.cache
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.RazorCoreGenerate.cache
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.Views.pdb
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\scopedcss\bundle\Default Routing.styles.css
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\staticwebassets\Default Routing.StaticWebAssets.Manifest.cache
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\staticwebassets\Default Routing.StaticWebAssets.Pack.cache
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\staticwebassets\msbuild.Default Routing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\staticwebassets\msbuild.build.Default Routing.props
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Default Routing.props
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Default Routing.props
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.dll
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\refint\Default Routing.dll
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.pdb
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.genruntimeconfig.cache
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\ref\Default Routing.dll
+C:\Users\yunus\Desktop\ASP.NET\3-Default Routing\obj\Debug\net5.0\Default Routing.csproj.CopyComplete

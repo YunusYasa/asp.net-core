@@ -1,0 +1,82 @@
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).exe
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).deps.json
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).runtimeconfig.json
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).runtimeconfig.dev.json
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).dll
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).pdb
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).Views.dll
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).Views.pdb
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).AssemblyInfo.cs
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).RazorAssemblyInfo.cache
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).RazorAssemblyInfo.cs
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).TagHelpers.input.cache
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).TagHelpers.output.cache
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).RazorCoreGenerate.cache
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Razor\Views\Movies\List.cshtml.g.cs
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).RazorTargetAssemblyInfo.cache
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).RazorTargetAssemblyInfo.cs
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).Views.pdb
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\scopedcss\bundle\Dinamik İçerik (viewin içine dinamik html ekleme olayı).styles.css
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\staticwebassets\Dinamik İçerik (viewin içine dinamik html ekleme olayı).StaticWebAssets.Manifest.cache
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\staticwebassets\Dinamik İçerik (viewin içine dinamik html ekleme olayı).StaticWebAssets.Pack.cache
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\staticwebassets\msbuild.Dinamik İçerik (viewin içine dinamik html ekleme olayı).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\staticwebassets\msbuild.build.Dinamik İçerik (viewin içine dinamik html ekleme olayı).props
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Dinamik İçerik (viewin içine dinamik html ekleme olayı).props
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Dinamik İçerik (viewin içine dinamik html ekleme olayı).props
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).dll
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\refint\Dinamik İçerik (viewin içine dinamik html ekleme olayı).dll
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).pdb
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).genruntimeconfig.cache
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\ref\Dinamik İçerik (viewin içine dinamik html ekleme olayı).dll
+C:\Users\yunus\source\repos\Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).csproj.CopyComplete
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\appsettings.json
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).exe
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).deps.json
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).runtimeconfig.json
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).runtimeconfig.dev.json
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).dll
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).pdb
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).Views.dll
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\bin\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).Views.pdb
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).AssemblyInfoInputs.cache
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).AssemblyInfo.cs
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).RazorAssemblyInfo.cache
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).RazorAssemblyInfo.cs
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).TagHelpers.input.cache
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).TagHelpers.output.cache
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).RazorCoreGenerate.cache
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Razor\Views\Movies\List.cshtml.g.cs
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).RazorTargetAssemblyInfo.cache
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).RazorTargetAssemblyInfo.cs
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).Views.pdb
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\scopedcss\bundle\Dinamik İçerik (viewin içine dinamik html ekleme olayı).styles.css
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\staticwebassets\Dinamik İçerik (viewin içine dinamik html ekleme olayı).StaticWebAssets.Manifest.cache
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\staticwebassets\Dinamik İçerik (viewin içine dinamik html ekleme olayı).StaticWebAssets.Pack.cache
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\staticwebassets\msbuild.Dinamik İçerik (viewin içine dinamik html ekleme olayı).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\staticwebassets\msbuild.build.Dinamik İçerik (viewin içine dinamik html ekleme olayı).props
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Dinamik İçerik (viewin içine dinamik html ekleme olayı).props
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Dinamik İçerik (viewin içine dinamik html ekleme olayı).props
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).dll
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\refint\Dinamik İçerik (viewin içine dinamik html ekleme olayı).dll
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).pdb
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).genruntimeconfig.cache
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\ref\Dinamik İçerik (viewin içine dinamik html ekleme olayı).dll
+C:\Users\yunus\Desktop\ASP.NET\5-Dinamik İçerik (viewin içine dinamik html ekleme olayı)\obj\Debug\net5.0\Dinamik İçerik (viewin içine dinamik html ekleme olayı).csproj.CopyComplete

@@ -1,0 +1,7 @@
+﻿@model List<Genre>
+<p>about</p>
+@section menu{
+    @*@await Html.PartialAsync("_menu", Model) yorum satırı yapmak i.in ctrl+k+c*@
+    @await Component.InvokeAsync("Genres")
+}
+
