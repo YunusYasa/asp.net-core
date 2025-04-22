@@ -1,0 +1,11 @@
+C:\Users\yunus\source\repos\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\yunus\source\repos\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\yunus\source\repos\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\yunus\source\repos\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\yunus\source\repos\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\yunus\source\repos\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\yunus\source\repos\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
+C:\Users\yunus\source\repos\Hesap makinesi\obj\Debug\Hesap_Makinesi.Bilimsel.resources
