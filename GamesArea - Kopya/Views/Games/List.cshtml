@@ -1,0 +1,27 @@
+﻿@model List<Game>
+
+@foreach (var game in Model)
+{
+    <div class="card mb-3" style="max-width: 540px;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+                <img src="/img/@game.ImageUrl" alt="@game.Name">
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">@game.Name</h5>
+                    <p class="card-text">@game.Devolopers</p>
+                    <p class="card-text">@game.Platforms</p>
+                    <p class="card-text">Genres</p>
+                    <ul>
+                        @foreach (var genre in game.Genres)
+                        {
+                            <li>@genre</li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}

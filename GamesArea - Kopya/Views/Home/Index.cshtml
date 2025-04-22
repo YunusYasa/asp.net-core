@@ -1,0 +1,22 @@
+﻿@model Game
+
+    <h1>Ana Oyun</h1>
+    <div id="games">
+
+        <div class="game">
+            <img src="/img/@Model.ImageUrl" alt="@Model.ImageUrl" />
+            <p>Name= @Model.Name</p>
+            <p>Devolopers= @Model.Devolopers</p>
+
+            <p>Genre</p>
+            <ul>
+                @foreach (var genre in Model.Genres)
+                {
+                    <li>@genre</li>
+                }
+            </ul>
+
+            <p>Platforms= @Model.Platforms</p>
+
+        </div>
+    </div>
